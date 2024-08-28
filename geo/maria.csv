@@ -1,29 +1,30 @@
-# Maria Geofeed, last updated: 2023-09-067T00:18:36.481447,,
-# Self-published geofeed as defined in https://datatracker.ietf.org/doc/html/rfc8805,,,
+# Maria Geofeed, last updated: 2023-09-067T00:18:36.481447,,,
+# Self-published geofeed as defined in https://datatracker.ietf.org/doc/html/rfc8805,,,,
+# IP Prefix, Alpha2code, Region, City, Postal Code
 2a05:dfc1:5f30::/48,JP,JP-13,Tokyo,113-8654
-2a05:dfc1:5f25::/48,TW,CN-TW,Taipei,
-2a05:dfc1:5f50::/44,HK,CN-HK,Hong Kong,
-2a05:dfc1:5f20::/48,HK,CN-HK,Hong Kong,
+2a05:dfc1:5f25::/48,TW,CN-TW,Taipei,10617
+2a05:dfc1:5f50::/44,HK,CN-HK,Hong Kong,99907
+2a05:dfc1:5f20::/48,HK,CN-HK,Hong Kong,99907
 2a05:dfc1:5f10::/48,US,US-FL,Miami,33132
-2a05:dfc1:5f15::/48,SG,SG-01,Singapore,
-2a05:dfc1:5f35::/48,CH,CH-ZU,Zurich,
-2a05:dfc1:5f60::/44,US,US-VA,Virginia,
-2a05:dfc1:5f70::/44,SG,SG-01,Singapore,
-2a05:dfc1:5f85::/48,SG,SG-02,Singapore,
-# Services,,,
-2a05:dfc1:8e00::/44,HK,CN-HK,Hong Kong,
-2a05:dfc1:8e10::/44,HK,CN-HK,Hong Kong,
-2a05:dfc1:8e20::/44,HK,CN-HK,Hong Kong,
-2a05:dfc1:8e30::/44,TW,CN-TW,Taipei,
-2a05:dfc1:8e40::/44,TW,CN-TW,Taipei,
-2a05:dfc1:8e50::/44,TW,CN-TW,Taipei,
-2a05:dfc1:8e60::/44,TW,CN-TW,Taipei,
-2a05:dfc1:8e70::/44,JP,JP-13,Tokyo,
-2a05:dfc1:8e80::/44,SG,SG-01,Singapore,
-2a05:dfc1:8e90::/44,SG,SG-01,Singapore,
-2a05:dfc1:8ea0::/44,SG,SG-01,Singapore,
-2a05:dfc1:8eb0::/44,SG,SG-01,Singapore,
-2a05:dfc1:8ec0::/44,SG,SG-01,Singapore,
-2a05:dfc1:8ed0::/44,US,US-CA,Sacramento,
-2a05:dfc1:8ee0::/44,US,US-CA,Sacramento,
-2a05:dfc1:8ef0::/44,US,US-CA,Sacramento,
+2a05:dfc1:5f15::/48,SG,SG-01,Singapore,487372
+2a05:dfc1:5f35::/48,CH,CH-ZU,Zurich,8005
+2a05:dfc1:5f60::/44,US,US-VA,Richmond,23220
+2a05:dfc1:5f70::/44,SG,SG-01,Singapore,487372
+2a05:dfc1:5f85::/48,SG,SG-02,Singapore,487372
+# Services,,,,
+2a05:dfc1:8e00::/44,HK,CN-HK,Hong Kong,99907
+2a05:dfc1:8e10::/44,HK,CN-HK,Hong Kong,99907
+2a05:dfc1:8e20::/44,HK,CN-HK,Hong Kong,99907
+2a05:dfc1:8e30::/44,TW,CN-TW,Taipei,10617
+2a05:dfc1:8e40::/44,TW,CN-TW,Taipei,10617
+2a05:dfc1:8e50::/44,TW,CN-TW,Taipei,10617
+2a05:dfc1:8e60::/44,TW,CN-TW,Taipei,10617
+2a05:dfc1:8e70::/44,JP,JP-13,Tokyo,113-8654
+2a05:dfc1:8e80::/44,SG,SG-01,Singapore,487372
+2a05:dfc1:8e90::/44,SG,SG-01,Singapore,487372
+2a05:dfc1:8ea0::/44,SG,SG-01,Singapore,487372
+2a05:dfc1:8eb0::/44,SG,SG-01,Singapore,487372
+2a05:dfc1:8ec0::/44,SG,SG-01,Singapore,487372
+2a05:dfc1:8ed0::/44,US,US-CA,Sacramento,95816
+2a05:dfc1:8ee0::/44,US,US-CA,Sacramento,95816
+2a05:dfc1:8ef0::/44,US,US-CA,Sacramento,95816
