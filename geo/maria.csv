@@ -1,36 +1,36 @@
-# Maria Geofeed	 last updated: 2026-04-13T22:14:13Z			
-# Self-published geofeed as defined in https://datatracker.ietf.org/doc/html/rfc8805				
-# IP Prefix	 Alpha2code	 Region	 City	 Postal Code
-# Main prefixes				
-2a05:dfc1:5f30::/48	JP	JP-13	Tokyo	151-0053
-2a05:dfc1:5f25::/48	TW	TW-TPE	Taipei	
-2a05:dfc1:5f50::/44	HK		Hong Kong	
-2a05:dfc1:5f20::/48	HK		Hong Kong	
-2a05:dfc1:5f10::/48	US	US-FL	Miami	33197
-2a05:dfc1:5f15::/48	SG		Singapore	17
-2a05:dfc1:5f35::/48	CH	CH-ZH	Zurich	8000
-2a05:dfc1:5f60::/44	US	US-VA	Richmond	23282
-2a05:dfc1:5f70::/44	SG		Singapore	17
-2a05:dfc1:5f85::/48	SG		Singapore	17
-				
-# Services				
-2a05:dfc1:8e00::/44	HK		Hong Kong	
-2a05:dfc1:8e10::/44	HK		Hong Kong	
-2a05:dfc1:8e20::/44	HK		Hong Kong	
-2a05:dfc1:8e30::/44	TW	TW-TPE	Taipei	
-2a05:dfc1:8e40::/44	TW	TW-TPE	Taipei	
-2a05:dfc1:8e50::/44	TW	TW-TPE	Taipei	
-2a05:dfc1:8e60::/44	TW	TW-TPE	Taipei	
-2a05:dfc1:8e70::/44	JP	JP-13	Tokyo	151-0053
-2a05:dfc1:8e80::/44	SG		Singapore	17
-2a05:dfc1:8e90::/44	SG		Singapore	17
-2a05:dfc1:8ea0::/44	SG		Singapore	17
-2a05:dfc1:8eb0::/44	SG		Singapore	17
-2a05:dfc1:8ec0::/44	SG		Singapore	17
-2a05:dfc1:8ed0::/44	US	US-CA	Sacramento	94204
-2a05:dfc1:8ee0::/44	US	US-CA	Sacramento	94204
-2a05:dfc1:8ef0::/44	US	US-CA	Sacramento	94204
-				
-# Larger blocks				
-2a14:7583:ed00::/40	SG		Singapore	17
-2a14:7583:ec00::/40	US	US-OH	Columbus	
+# Maria Geofeed, last updated: 2026-04-13T22:14:13Z,,,
+# Self-published geofeed as defined in https://datatracker.ietf.org/doc/html/rfc8805,,,,
+# IP Prefix, Alpha2code, Region, City, Postal Code
+# Main prefixes,,,,
+2a05:dfc1:5f30::/48,JP,JP-13,Tokyo,151-0053
+2a05:dfc1:5f25::/48,TW,TW-TPE,Taipei,
+2a05:dfc1:5f50::/44,HK,,Hong Kong,
+2a05:dfc1:5f20::/48,HK,,Hong Kong,
+2a05:dfc1:5f10::/48,US,US-FL,Miami,33197
+2a05:dfc1:5f15::/48,SG,,Singapore,17
+2a05:dfc1:5f35::/48,CH,CH-ZH,Zurich,8000
+2a05:dfc1:5f60::/44,US,US-VA,Richmond,23282
+2a05:dfc1:5f70::/44,SG,,Singapore,17
+2a05:dfc1:5f85::/48,SG,,Singapore,17
+
+# Services,,,,
+2a05:dfc1:8e00::/44,HK,,Hong Kong,
+2a05:dfc1:8e10::/44,HK,,Hong Kong,
+2a05:dfc1:8e20::/44,HK,,Hong Kong,
+2a05:dfc1:8e30::/44,TW,TW-TPE,Taipei,
+2a05:dfc1:8e40::/44,TW,TW-TPE,Taipei,
+2a05:dfc1:8e50::/44,TW,TW-TPE,Taipei,
+2a05:dfc1:8e60::/44,TW,TW-TPE,Taipei,
+2a05:dfc1:8e70::/44,JP,JP-13,Tokyo,151-0053
+2a05:dfc1:8e80::/44,SG,,Singapore,17
+2a05:dfc1:8e90::/44,SG,,Singapore,17
+2a05:dfc1:8ea0::/44,SG,,Singapore,17
+2a05:dfc1:8eb0::/44,SG,,Singapore,17
+2a05:dfc1:8ec0::/44,SG,,Singapore,17
+2a05:dfc1:8ed0::/44,US,US-CA,Sacramento,94204
+2a05:dfc1:8ee0::/44,US,US-CA,Sacramento,94204
+2a05:dfc1:8ef0::/44,US,US-CA,Sacramento,94204
+
+# Larger blocks,,,,
+2a14:7583:ed00::/40,SG,,Singapore,17
+2a14:7583:ec00::/40,US,US-OH,Columbus,
